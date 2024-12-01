@@ -1,0 +1,2 @@
+# CursorAI
+development with CursorAI
